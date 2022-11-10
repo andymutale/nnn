@@ -1,0 +1,6 @@
+src/
+public/
+.vscode/
+package-lock.json
+.babelrc
+.gitignore
